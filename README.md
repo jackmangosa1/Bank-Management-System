@@ -8,6 +8,6 @@ This is a bank management system made in C. It has functions like:
 4.  Transfer money from one account to another
 
 How to use it:
-1. Login with a preset password
+1. Login with a preset password (1234)
 2. Choose a function to the menu
 3. The system is user-friendly, just follow instructions for other steps.
